@@ -1,9 +1,9 @@
 # ERC-Mine-Club-2023
 
 ## Mechanical
-- Model file -> [link](https://github.com/Harshvardhan-Mestha/ERC-Mine-Club-2023/blob/main/Mechanical/final_model.f3d)
-
 - Ansys final report -> [link](https://github.com/Harshvardhan-Mestha/ERC-Mine-Club-2023/blob/main/Mechanical/ANSYS_Final_Report.pdf)
+
+- Model render -> [link](https://a360.co//3OTClzP)
 ## Electronics 
 - Four Wheel Drive -> [link](https://www.tinkercad.com/things/5HOjNXjHiFC)
 
@@ -20,3 +20,15 @@
 - Path Planning -> [link](https://github.com/Harshvardhan-Mestha/ERC-Mine-Club-2023/blob/main/Automation/scripts/path_planner.py)
 
 - Controller -> [link](https://github.com/Harshvardhan-Mestha/ERC-Mine-Club-2023/blob/main/Automation/scripts/controller.py)
+
+## Images
+3D model render
+![3D model render](Mechanical/CAD.png)
+Buzzer
+![Buzzer](Electronics/PCB1.jpeg)
+Metal Detector
+![Metal Detector](Electronics/PCB2.jpeg)
+Color Detection
+![Color Detection](Automation/CD.png)
+Path Planning
+![Path Planning](Automation/path.png)
