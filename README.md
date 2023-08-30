@@ -4,6 +4,9 @@
 - Ansys final report -> [link](https://github.com/Harshvardhan-Mestha/ERC-Mine-Club-2023/blob/main/Mechanical/ANSYS_Final_Report.pdf)
 
 - Model render -> [link](https://a360.co//3OTClzP)
+
+- Alternative arm -> [link](https://a360.co/3stdFGF)
+
 ## Electronics 
 - Four Wheel Drive -> [link](https://www.tinkercad.com/things/5HOjNXjHiFC)
 
